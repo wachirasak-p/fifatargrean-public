@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2022-06-11",
+    "date_next": "2022-06-15",
+    "game": "The Quarry",
+    "game_img": "https://cdn.akamai.steamstatic.com/steam/apps/1577120/capsule_616x353.jpg?t=1656610780"
+  },
+  {
+    "date": "2022-06-18",
+    "date_next": "2022-06-18_2",
+    "game": "It Takes Two",
+    "game_img": "https://cdn1.epicgames.com/offer/8ae7b3c0f490471b967ce26cc2f6e0e6/EGS_ItTakesTwo_Hazelight_S2_1200x1600-5c82de2d2e21a841dd06ec27e082777e_1200x1600-5c82de2d2e21a841dd06ec27e082777e"
+  }
+]
