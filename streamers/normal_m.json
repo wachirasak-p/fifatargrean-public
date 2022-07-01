@@ -78,33 +78,9 @@
     "ic_gang": "แก๊งฟ้า"
   },
   {
-    "twitch_name": "chillchill_live",
-    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/f52d0092-d3be-44fd-ae74-8aac98501ccc-profile_image-300x300.png",
-    "ic_name": null,
-    "ic_gang": null
-  },
-  {
     "twitch_name": "percypued",
     "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/5dd30657-f912-4b90-b6ba-eb97c892f0c7-profile_image-300x300.png",
     "ic_name": "เพอร์ซี่ ปื๊ด",
-    "ic_gang": null
-  },
-  {
-    "twitch_name": "zenlouis_live",
-    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/7818afc9-59a6-4aaf-afcd-a0981da27f35-profile_image-300x300.png",
-    "ic_name": null,
-    "ic_gang": null
-  },
-  {
-    "twitch_name": "hachixp",
-    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/06e93b17-58cd-4e64-be24-796b45312d5f-profile_image-300x300.png",
-    "ic_name": null,
-    "ic_gang": null
-  },
-  {
-    "twitch_name": "parinn_",
-    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3bb634d-09e0-4c77-8d5d-0ce88d350ae6-profile_image-300x300.png",
-    "ic_name": null,
     "ic_gang": null
   },
   {
@@ -114,33 +90,15 @@
     "ic_gang": "แก๊งฟ้า"
   },
   {
-    "twitch_name": "kennerx",
-    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9af9ebf-0f35-404f-91bc-2fa1217a75a5-profile_image-300x300.png",
-    "ic_name": null,
-    "ic_gang": null
-  },
-  {
     "twitch_name": "winzycrazy24",
     "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/01c0d49a-6da0-418b-9aca-357ebd70d95b-profile_image-300x300.png",
     "ic_name": "กวิน",
     "ic_gang": null
   },
   {
-    "twitch_name": "nozokungll",
-    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/034ab27b-c530-4750-b9f1-7d3653501bde-profile_image-300x300.png",
-    "ic_name": null,
-    "ic_gang": null
-  },
-  {
     "twitch_name": "booseye_",
     "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/a11abc5b-aada-49a7-8622-104ab2f14937-profile_image-300x300.png",
     "ic_name": "อาบูล",
-    "ic_gang": null
-  },
-  {
-    "twitch_name": "loxynaja",
-    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/fe8abc19-18c2-4ab3-875c-fc5fd100b8c4-profile_image-300x300.png",
-    "ic_name": null,
     "ic_gang": null
   },
   {
@@ -156,28 +114,10 @@
     "ic_gang": null
   },
   {
-    "twitch_name": "zovincenz",
-    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/fcb3de57-9afe-4ed0-b50d-d57c787bdd81-profile_image-300x300.png",
-    "ic_name": null,
-    "ic_gang": null
-  },
-  {
-    "twitch_name": "sleepyp43",
-    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/54abf292-3d87-4a9e-a24a-e6edb65f7756-profile_image-300x300.png",
-    "ic_name": null,
-    "ic_gang": null
-  },
-  {
     "twitch_name": "boatnpx",
     "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/a94e90c5-e452-4007-8975-92d860fe21d2-profile_image-300x300.png",
     "ic_name": "โบ้ท",
     "ic_gang": "แก๊งเทา"
-  },
-  {
-    "twitch_name": "fishing_manth",
-    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/10261e7e-3210-4e92-81f2-3bd3c21c11ab-profile_image-300x300.png",
-    "ic_name": null,
-    "ic_gang": null
   },
   {
     "twitch_name": "nahm13",
@@ -213,6 +153,66 @@
     "twitch_name": "thepungmorgang",
     "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9c6e463-8add-4355-b596-c14f71dd7e9e-profile_image-300x300.png",
     "ic_name": "ปั๋ง มอแกง",
+    "ic_gang": null
+  },
+    {
+    "twitch_name": "zovincenz",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/fcb3de57-9afe-4ed0-b50d-d57c787bdd81-profile_image-300x300.png",
+    "ic_name": null,
+    "ic_gang": null
+  },
+  {
+    "twitch_name": "sleepyp43",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/54abf292-3d87-4a9e-a24a-e6edb65f7756-profile_image-300x300.png",
+    "ic_name": null,
+    "ic_gang": null
+  },
+   {
+    "twitch_name": "fishing_manth",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/10261e7e-3210-4e92-81f2-3bd3c21c11ab-profile_image-300x300.png",
+    "ic_name": null,
+    "ic_gang": null
+  },
+    {
+    "twitch_name": "loxynaja",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/fe8abc19-18c2-4ab3-875c-fc5fd100b8c4-profile_image-300x300.png",
+    "ic_name": null,
+    "ic_gang": null
+  },
+    {
+    "twitch_name": "kennerx",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9af9ebf-0f35-404f-91bc-2fa1217a75a5-profile_image-300x300.png",
+    "ic_name": null,
+    "ic_gang": null
+  },
+    {
+    "twitch_name": "nozokungll",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/034ab27b-c530-4750-b9f1-7d3653501bde-profile_image-300x300.png",
+    "ic_name": null,
+    "ic_gang": null
+  },
+  {
+    "twitch_name": "zenlouis_live",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/7818afc9-59a6-4aaf-afcd-a0981da27f35-profile_image-300x300.png",
+    "ic_name": null,
+    "ic_gang": null
+  },
+  {
+    "twitch_name": "hachixp",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/06e93b17-58cd-4e64-be24-796b45312d5f-profile_image-300x300.png",
+    "ic_name": null,
+    "ic_gang": null
+  },
+  {
+    "twitch_name": "parinn_",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3bb634d-09e0-4c77-8d5d-0ce88d350ae6-profile_image-300x300.png",
+    "ic_name": null,
+    "ic_gang": null
+  },
+  {
+    "twitch_name": "chillchill_live",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/f52d0092-d3be-44fd-ae74-8aac98501ccc-profile_image-300x300.png",
+    "ic_name": null,
     "ic_gang": null
   }
 ]
