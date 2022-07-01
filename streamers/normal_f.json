@@ -1,14 +1,14 @@
 [
   {
-    "twitch_name": "sniffslive",
-    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/4e1e0f54-9ede-446b-8d57-be4f56c3cb23-profile_image-300x300.png",
-    "ic_name": "อลิซ",
-    "ic_gang": null
-  },
-  {
     "twitch_name": "teddy_meehom",
     "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/4d90bdd3-e6e3-4873-847f-14845f4ff05e-profile_image-300x300.png",
     "ic_name": "ลูกหมี",
+    "ic_gang": null
+  },
+  {
+    "twitch_name": "sniffslive",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/4e1e0f54-9ede-446b-8d57-be4f56c3cb23-profile_image-300x300.png",
+    "ic_name": "อลิซ",
     "ic_gang": null
   },
   {
