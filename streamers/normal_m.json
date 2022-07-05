@@ -1,12 +1,12 @@
 [
   {
-    "twitch_name": "fifatargrean",
+    "twitch_name": "FifaTargrean",
     "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/fifatargrean-profile_image-cc971dc2b199101d-300x300.jpeg",
     "ic_name": "ไรล์ โกลเด้น",
     "ic_gang": "RG"
   },
   {
-    "twitch_name": "flashkeystore",
+    "twitch_name": "FlashKeyStore",
     "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/aefd6d7f-f16f-460e-b6b9-17fc0682e401-profile_image-300x300.png",
     "ic_name": "นายก",
     "ic_gang": null
@@ -244,5 +244,11 @@
     "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d2e4a41-ab55-497e-ba64-e8f5eb095307-profile_image-300x300.png",
     "ic_name": "โอ",
     "ic_gang": "RG"
+  },
+  {
+    "twitch_name": "ERicMaBoY_",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/c87bee0c-b699-4b76-89a2-778c9f4692e5-profile_image-300x300.png",
+    "ic_name": "",
+    "ic_gang": ""
   }
 ]
