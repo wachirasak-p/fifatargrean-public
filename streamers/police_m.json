@@ -98,5 +98,15 @@
     "twitch_name": "snapelivee",
     "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/63f66e04-28ce-4edc-8054-e9ce5fc2a8f7-profile_image-300x300.png",
     "ic_name": "Snape"
+  },
+  {
+    "twitch_name": "dakingrambo",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e561c50-798b-4d2b-abb2-3ae749b4d7d6-profile_image-300x300.png",
+    "ic_name": ""
+  },
+  {
+    "twitch_name": "SeanChaorai",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/d2f948cb-43fe-4929-98a9-5e3f1e7e2ab7-profile_image-300x300.png",
+    "ic_name": "Sean Chaorai"
   }
 ]
