@@ -286,5 +286,17 @@
     "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/fd44ad9c-98ed-4511-b865-6f0dbfda49b1-profile_image-300x300.png",
     "ic_name": "",
     "ic_gang": ""
+  },
+  {
+    "twitch_name": "xjdja",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/ae7106ed-3836-4f4e-93a3-cdf4344f21fc-profile_image-300x300.png",
+    "ic_name": "",
+    "ic_gang": ""
+  },
+  {
+    "twitch_name": "baebibobo",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/df153f93-4325-4543-9c62-792936f0b465-profile_image-300x300.jpeg",
+    "ic_name": "Bobo",
+    "ic_gang": "RG"
   }
 ]
