@@ -3,9 +3,15 @@
     "twitch_name": "theoneheaven",
     "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/6ed9e726-61b4-4801-a20b-1d8ba41796ae-profile_image-300x300.png",
     "ic_name": "เดอะวัน "
-  },{
+  },
+  {
     "twitch_name": "TonyxRedweapon",
     "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/4d437735-5926-4345-966f-7a55c4e3e513-profile_image-300x300.png",
     "ic_name": "Tony"
+  },
+  {
+    "twitch_name": "kaizersakura",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/57899c32-6259-4675-b32c-59a44d2e7796-profile_image-300x300.png",
+    "ic_name": ""
   }
 ]
