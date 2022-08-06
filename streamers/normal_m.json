@@ -210,12 +210,6 @@
     "ic_gang": null
   },
   {
-    "twitch_name": "chillchill_live",
-    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/f52d0092-d3be-44fd-ae74-8aac98501ccc-profile_image-300x300.png",
-    "ic_name": null,
-    "ic_gang": null
-  },
-  {
     "twitch_name": "LoopLung",
     "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/6040d560-2521-4199-b2ec-b08b6a9b0cb8-profile_image-300x300.png",
     "ic_name": null,
@@ -309,6 +303,12 @@
     "twitch_name": "sebisosexy",
     "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/503e5cb2-0ce5-4dad-9b26-8321884386c0-profile_image-300x300.png",
     "ic_name": "Sebi Sosexy",
+    "ic_gang": ""
+  },
+  {
+    "twitch_name": "nicky_slattttt",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/fe851f5d-3ab7-4be7-9c41-5d539604e61c-profile_image-300x300.png",
+    "ic_name": "Nicolas Slattttt",
     "ic_gang": ""
   }
 ]
