@@ -217,7 +217,7 @@
   },
   {
     "twitch_name": "arno_npk",
-    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/25cfa69d-3c12-4c8e-854a-95217c845a7e-profile_image-300x300.png",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/4fe43411-d7e9-4d0d-a20d-cd5042f7a1c5-profile_image-300x300.png",
     "ic_name": null,
     "ic_gang": null
   },
@@ -309,6 +309,24 @@
     "twitch_name": "nicky_slattttt",
     "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/fe851f5d-3ab7-4be7-9c41-5d539604e61c-profile_image-300x300.png",
     "ic_name": "Nicolas Slattttt",
+    "ic_gang": ""
+  },
+  {
+    "twitch_name": "godbrother",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/76cbd5fa-721d-4652-acfc-7aa9d5b0be48-profile_image-300x300.jpeg",
+    "ic_name": "Benjiro joji",
+    "ic_gang": ""
+  },
+  {
+    "twitch_name": "kenkerlee",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/949a89a4-fc3e-4a2d-a1a0-b6600a60123a-profile_image-300x300.jpeg",
+    "ic_name": "Odeng Sunny",
+    "ic_gang": ""
+  },
+  {
+    "twitch_name": "rungrangjadjad",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/9825db8a-9795-4deb-9bc9-5d3e97141108-profile_image-300x300.png",
+    "ic_name": "rungrang jadjad",
     "ic_gang": ""
   }
 ]
