@@ -100,5 +100,11 @@
     "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/c68a2928-6308-4cab-a26f-8c3289d0af26-profile_image-300x300.png",
     "ic_name": "ลูกโซ่",
     "ic_gang": ""
-  }
+  },
+  {
+    "twitch_name": "Pun_channel",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a04f4fb-3ab8-4e81-a2ae-88701460a160-profile_image-300x300.png",
+    "ic_name": "",
+    "ic_gang": ""
+  },
 ]
