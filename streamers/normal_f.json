@@ -24,8 +24,14 @@
     "ic_gang": "แก๊งเทา"
   },
   {
+    "twitch_name": "babycutiegirl",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/09ab01a6-1d89-4882-adc3-a9834ff567fc-profile_image-300x300.png",
+    "ic_name": "จูมิโกะ",
+    "ic_gang": "RG"
+  },
+  {
     "twitch_name": "bellanabera",
-    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/70a7df31-cd3e-4738-b45b-01a16e3023e2-profile_image-300x300.png",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9e73307-651e-4416-a52e-c135bda88b8d-profile_image-300x300.png",
     "ic_name": "Bella",
     "ic_gang": null
   },
@@ -79,7 +85,7 @@
   },
   {
     "twitch_name": "fahifh",
-    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/a5eb9bc3-8112-4c06-8cfd-3129151fe94a-profile_image-300x300.jpeg",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/a599aa59-d1fc-4d26-9061-dd6884d86a0d-profile_image-300x300.png",
     "ic_name": "สมร",
     "ic_gang": "สภา"
   },
@@ -95,10 +101,4 @@
     "ic_name": "ลูกโซ่",
     "ic_gang": ""
   },
-  {
-    "twitch_name": "Pun_channel",
-    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a04f4fb-3ab8-4e81-a2ae-88701460a160-profile_image-300x300.png",
-    "ic_name": "",
-    "ic_gang": ""
-  }
 ]
