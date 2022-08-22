@@ -288,6 +288,12 @@
     "ic_gang": "RG"
   },
   {
+    "twitch_name": "The_endx2",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8bfa855-de6e-4384-b271-49a7bdba4347-profile_image-300x300.png",
+    "ic_name": "เจคอป",
+    "ic_gang": "RG"
+  },
+  {
     "twitch_name": "pattpattpatt_",
     "twitch_img": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png",
     "ic_name": "Hed Alone",
@@ -302,8 +308,8 @@
   {
     "twitch_name": "nicky_slattttt",
     "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/fe851f5d-3ab7-4be7-9c41-5d539604e61c-profile_image-300x300.png",
-    "ic_name": "Nicolas Slattttt",
-    "ic_gang": ""
+    "ic_name": "นิกกี้",
+    "ic_gang": "RG"
   },
   {
     "twitch_name": "godbrother",
@@ -334,5 +340,5 @@
     "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/f911982d-6445-4445-9934-8741ade162c5-profile_image-300x300.png",
     "ic_name": "Jeff Hardy",
     "ic_gang": ""
-  }
+  }  
 ]
