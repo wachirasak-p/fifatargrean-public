@@ -241,7 +241,7 @@
   },
   {
     "twitch_name": "ERicMaBoY_",
-    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/ae8b9b15-a9b2-4a5a-8a0a-12599a26e19e-profile_image-300x300.png",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/e0abd4f6-eb98-4a86-baeb-069408f9a62c-profile_image-300x300.png",
     "ic_name": "",
     "ic_gang": ""
   },
@@ -307,7 +307,7 @@
   },
   {
     "twitch_name": "nicky_slattttt",
-    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/fe851f5d-3ab7-4be7-9c41-5d539604e61c-profile_image-300x300.png",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/f6a03605-4efb-48da-91e0-6884365263eb-profile_image-300x300.png",
     "ic_name": "นิกกี้",
     "ic_gang": "RG"
   },
@@ -337,8 +337,20 @@
   },
   {
     "twitch_name": "jer4myx4",
-    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/f911982d-6445-4445-9934-8741ade162c5-profile_image-300x300.png",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/288ee2e1-6f2a-48a0-a663-c90cf0644b22-profile_image-300x300.jpeg",
     "ic_name": "Jeff Hardy",
     "ic_gang": ""
-  }  
+  },
+  {
+    "twitch_name": "steviergx",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/9db59005-21c6-4927-a200-6f14647970e2-profile_image-300x300.png",
+    "ic_name": "สตีฟ โรเจอร์",
+    "ic_gang": "VP"
+  },
+  {
+    "twitch_name": "Lazy_LIVEx",
+    "twitch_img": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d66cec6-bacd-48c8-aa4b-c51f185bfe51-profile_image-300x300.png",
+    "ic_name": "",
+    "ic_gang": "VP"
+  }
 ]
